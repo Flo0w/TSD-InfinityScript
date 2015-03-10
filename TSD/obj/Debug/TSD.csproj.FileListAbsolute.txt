@@ -1,0 +1,11 @@
+c:\users\chris_000\documents\visual studio 2013\Projects\TSD\TSD\bin\Debug\TSD.dll
+c:\users\chris_000\documents\visual studio 2013\Projects\TSD\TSD\bin\Debug\TSD.pdb
+c:\users\chris_000\documents\visual studio 2013\Projects\TSD\TSD\bin\Debug\InfinityScript.dll
+c:\users\chris_000\documents\visual studio 2013\Projects\TSD\TSD\obj\Debug\TSD.dll
+c:\users\chris_000\documents\visual studio 2013\Projects\TSD\TSD\obj\Debug\TSD.pdb
+C:\Users\chris_000\Documents\Visual Studio 2013\Projects\TSD\TSD\obj\Debug\TSD.csprojResolveAssemblyReference.cache
+C:\Users\chris_000\Desktop\TSD\TSD\bin\Debug\TSD.dll
+C:\Users\chris_000\Desktop\TSD\TSD\bin\Debug\TSD.pdb
+C:\Users\chris_000\Desktop\TSD\TSD\obj\Debug\TSD.csprojResolveAssemblyReference.cache
+C:\Users\chris_000\Desktop\TSD\TSD\obj\Debug\TSD.dll
+C:\Users\chris_000\Desktop\TSD\TSD\obj\Debug\TSD.pdb
